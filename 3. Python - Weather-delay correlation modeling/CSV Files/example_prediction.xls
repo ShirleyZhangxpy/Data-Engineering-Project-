@@ -1,0 +1,2 @@
+avg_temp,avg_humidity,wind_kt,n_storms,arr_flights,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,airport,carrier,season,subbasin,name,delay_probability,predicted_class
+85,80,28,2,1357.9475524475524,70.57479109498097,8.185511197663097,87.86467026644242,0.5723665574931397,87.85679560945381,ORD,AA,Summer,CS,UNNAMED,0.8866666666666667,1
